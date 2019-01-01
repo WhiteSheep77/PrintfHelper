@@ -14,7 +14,12 @@ example:
 
 ./testPrintfHelper
 !!!!!!!!!!!!!!!!!!!!![Error]!!!!!!!!!!!!!!!!!!!!!
+
 testmain.cpp:main: at Line16:test error
+
 --------------------[Waring]--------------------
+
 testmain.cpp:funcA: at Line11:test waring
+
 testmain.cpp:funcB: at Line6:test Message
+
